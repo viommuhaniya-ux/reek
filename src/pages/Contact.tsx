@@ -59,7 +59,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-medium mb-1">Email</h3>
                     <a href="mailto:hello@reek.studio" className="text-muted hover:text-foreground transition-colors">
-                      hello@reek.studio
+                      Reek-studio.gmail.com
                     </a>
                   </div>
                 </div>
