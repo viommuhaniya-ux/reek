@@ -251,7 +251,7 @@ export default function Works() {
               exit={{ scale: 0.95, opacity: 0 }}
               transition={{ duration: 0.3 }}
               onClick={(e) => e.stopPropagation()}
-              className="relative w-full max-w-6xl"
+              className="relative w-full max-w-3xl"
             >
               {/* Close button */}
               <button
