@@ -16,7 +16,7 @@ const software = [
   { name: 'DaVinci Resolve', level: 95, category: 'Color', icon: 'Da', color: '#FF6B6B' },
   { name: 'After Effects', level: 92, category: 'Motion', icon: 'Ae', color: '#9999FF' },
   { name: 'Final Cut Pro', level: 88, category: 'Editing', icon: 'Fc', color: '#FFFFFF' },
-  { name: 'Cinema 4D', level: 75, category: '3D', icon: 'C4', color: '#4ECDC4' },
+  { name: 'Blender', level: 75, category: '3D', icon: 'C4', color: '#4ECDC4' },
   { name: 'Audition', level: 85, category: 'Audio', icon: 'Au', color: '#00D4AA' },
 ];
 
